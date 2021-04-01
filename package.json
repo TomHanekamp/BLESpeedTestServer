@@ -1,8 +1,8 @@
 {
-  "name": "cdk",
+  "name": "ble_speed_test_server",
   "version": "0.1.0",
   "bin": {
-    "cdk": "bin/cdk.js"
+    "ble_speed_test_server": "bin/ble_speed_test_server.js"
   },
   "scripts": {
     "build": "tsc",
